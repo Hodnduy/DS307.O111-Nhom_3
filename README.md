@@ -13,7 +13,7 @@
 
 
 ### Bộ dữ liệu
-- Bộ dữ liệu được lấy từ Kaggle [Kaggle]([https://www.kaggle.com/datasets/phamtheds/job-dataset-for-recommendation](https://www.kaggle.com/datasets/gpreda/elon-musk-tweets))
+- Bộ dữ liệu được lấy từ Kaggle [Kaggle](https://www.kaggle.com/datasets/gpreda/elon-musk-tweets)
 - Việc cào dữ liệu chỉ được thực hiện thông qua API Twitter - Gói Basic 100$/tháng
   
 ### Nội dung đồ án
