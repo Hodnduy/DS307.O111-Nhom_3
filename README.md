@@ -7,7 +7,7 @@
 
 
 **Nhóm 3:**
-- Nguyễn Thị Vân 
+- Nguyễn Thị Vân Anh
 - Phạm Thị Diễm Quỳnh
 - Hồ Đình Duy
 
