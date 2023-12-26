@@ -21,7 +21,7 @@
 - Thu thâp, xây dựng và phân tích bộ dữ liệu
 - Sử dụng các mô hình Pre-trained sau đó đánh giá kết quả
 
-##Video
+### Video trình bày
 - [Youtube](https://youtu.be/YHPaSR90EC0)
 
 
